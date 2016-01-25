@@ -8,6 +8,7 @@ setup(
     author='David Keijser',
     author_email='keijser@gmail.com',
     license='MIT',
+    url='https://github.com/blockstack/base58',
     entry_points={
         'console_scripts': [
             'base58 = base58:main'
